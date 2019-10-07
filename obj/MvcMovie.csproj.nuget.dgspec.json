@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MinhVan\\Programming\\ASP.NET Core MVC\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Projects\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\MinhVan\\Programming\\ASP.NET Core MVC\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Projects\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MinhVan\\Programming\\ASP.NET Core MVC\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Projects\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\MinhVan\\Programming\\ASP.NET Core MVC\\MvcMovie\\MvcMovie.csproj",
-        "packagesPath": "C:\\Users\\Minh Van\\.nuget\\packages\\",
-        "outputPath": "C:\\MinhVan\\Programming\\ASP.NET Core MVC\\MvcMovie\\obj\\",
+        "projectPath": "C:\\Projects\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "packagesPath": "C:\\Users\\vanm\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\MvcMovie\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Minh Van\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vanm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
